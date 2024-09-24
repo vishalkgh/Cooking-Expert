@@ -1,0 +1,79 @@
+# Prompt 1:
+Q: How do I make lasagna?
+A: To make lasagna, layer cooked lasagna noodles with marinara sauce, ricotta cheese, mozzarella cheese, and cooked ground beef or vegetables. Bake at 375°F for 45 minutes.
+
+# Prompt 2:
+Q: What are some easy dinner recipes I can make in 30 minutes?
+A: Here are a few quick dinner ideas: 1. Stir-fry chicken and vegetables, 2. Pasta with pesto sauce, 3. Grilled cheese sandwiches with tomato soup, 4. Shrimp tacos with lime.
+
+# Prompt 3:
+Q: How do I cook a perfect steak?
+A: To cook a perfect steak, season it with salt and pepper, then sear it in a hot pan with oil for 3-4 minutes on each side. Let it rest for 5 minutes before slicing. Cook to your preferred doneness.
+
+# Prompt 4:
+Q: Can you give me a recipe for chocolate chip cookies?
+A: Sure! You’ll need 1 cup of butter, 1 cup of sugar, 2 cups of flour, 1 tsp of baking soda, 1 tsp vanilla, and 1 cup of chocolate chips. Cream the butter and sugar, mix in dry ingredients, then stir in the chocolate chips. Bake at 350°F for 12-15 minutes.
+
+# Prompt 5:
+Q: What’s the best way to cook quinoa?
+A: Rinse the quinoa, then cook it in a 2:1 ratio of water to quinoa. Bring to a boil, then reduce heat and simmer for 15 minutes. Let it sit for 5 minutes before fluffing with a fork.
+
+# Prompt 6:
+Q: How do I make vegan pancakes?
+A: Mix 1 cup of flour, 1 tbsp of sugar, 1 tsp of baking powder, 1 cup of plant-based milk, and 1 tbsp of oil. Cook on a non-stick pan until bubbles form, then flip and cook for another 1-2 minutes.
+
+# Prompt 7:
+Q: Can you suggest a vegetarian dinner recipe?
+A: Try making a hearty vegetable stir-fry with tofu. Sauté garlic, ginger, broccoli, bell peppers, and tofu in soy sauce. Serve with rice or noodles.
+
+# Prompt 8:
+Q: What’s a simple recipe for homemade tomato soup?
+A: Sauté onions and garlic in olive oil, add 4 cups of chopped tomatoes, 1 cup of vegetable broth, and simmer for 20 minutes. Blend until smooth, then season with salt, pepper, and a pinch of sugar.
+
+# Prompt 9:
+Q: How do I make homemade pizza dough?
+A: Combine 2 ¼ tsp of yeast, 1 ½ cups of warm water, 3 ½ cups of flour, 2 tbsp of olive oil, and 1 tsp of salt. Knead the dough, let it rise for 1 hour, then roll out and add toppings.
+
+# Prompt 10:
+Q: What’s a good recipe for banana bread?
+A: Mash 3 ripe bananas, mix in ½ cup of melted butter, 1 cup of sugar, 1 egg, 1 tsp vanilla, 1 tsp baking soda, and 1 ½ cups of flour. Bake at 350°F for 60 minutes.
+
+# Prompt 11:
+Q: Can you help me make a gluten-free cake?
+A: Sure! Use gluten-free flour, eggs, sugar, butter, and milk. Replace wheat flour with a gluten-free blend, and add 1 tsp of xanthan gum to help the cake structure. Follow a regular cake recipe, and bake at 350°F for 25-30 minutes.
+
+# Prompt 12:
+Q: How do I make creamy mashed potatoes?
+A: Boil peeled potatoes in salted water until tender, then mash with butter, warm milk, and a pinch of salt. For extra creaminess, add sour cream or cream cheese.
+
+# Prompt 13:
+Q: What’s the best way to roast vegetables?
+A: Toss your vegetables (like carrots, potatoes, or Brussels sprouts) with olive oil, salt, pepper, and your favorite herbs. Roast at 400°F for 20-30 minutes, flipping halfway through.
+
+# Prompt 14:
+Q: How can I make fluffy scrambled eggs?
+A: Whisk eggs with a splash of milk or cream, then cook them on low heat, stirring gently with a spatula. Remove from heat when they’re still slightly underdone; they’ll finish cooking off the heat.
+
+# Prompt 15:
+Q: Can you give me a quick salad recipe?
+A: Sure! Try a simple arugula salad: Toss arugula with cherry tomatoes, avocado, cucumber, olive oil, lemon juice, salt, and pepper. You can also add feta cheese or nuts for extra flavor.
+
+# Prompt 16:
+Q: How do I make garlic bread from scratch?
+A: Mix softened butter with minced garlic, parsley, and a pinch of salt. Spread it on sliced bread and bake at 375°F for 10-12 minutes, or until golden brown.
+
+# Prompt 17:
+Q: What’s a good recipe for fried rice?
+A: Sauté diced onions, garlic, and vegetables in oil, then add cooked rice. Stir in soy sauce and scrambled eggs, and finish with green onions. You can also add chicken, shrimp, or tofu.
+
+# Prompt 18:
+Q: How can I make a simple chocolate cake?
+A: Mix 1 ¾ cups of flour, 2 cups of sugar, ¾ cup of cocoa powder, 1 ½ tsp of baking powder, 1 tsp of salt, 2 eggs, 1 cup of milk, ½ cup of vegetable oil, and 1 cup of boiling water. Bake at 350°F for 30-35 minutes.
+
+# Prompt 19:
+Q: What’s the best way to cook salmon?
+A: Season salmon fillets with olive oil, salt, pepper, and lemon juice. Bake at 400°F for 12-15 minutes, or until the salmon flakes easily with a fork. You can also grill or pan-sear the fillets.
+
+# Prompt 20:
+Q: Can you give me a recipe for a classic Caesar salad?
+A: For the dressing, mix 1 egg yolk, 1 tsp Dijon mustard, 1 tbsp lemon juice, 1 garlic clove (minced), 1 tsp Worcestershire sauce, and ¼ cup olive oil. Toss with romaine lettuce, croutons, and Parmesan cheese.
